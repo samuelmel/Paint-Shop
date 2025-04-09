@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paint-shop", "paint-shop.csproj", "{68EDB665-2F8B-623B-970D-03E8A4CED116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EDB665-2F8B-623B-970D-03E8A4CED116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EDB665-2F8B-623B-970D-03E8A4CED116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EDB665-2F8B-623B-970D-03E8A4CED116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EDB665-2F8B-623B-970D-03E8A4CED116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE2B08E2-C40F-4B93-A7A2-0B9145D28E90}
+	EndGlobalSection
+EndGlobal
