@@ -1,6 +1,6 @@
 namespace PaintShop;
 
-// 3 - Crie uma classe estática PaintUtilities
+//classe estática PaintUtilities
 public static class PaintUtilities
 {
     public static int SquareMetersPerLiter {get;set;} = 10;

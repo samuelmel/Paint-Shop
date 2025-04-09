@@ -4,7 +4,7 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace PaintShop;
 
-// 1 - Crie uma classe Wall
+//classe Wall
 public class Wall
 {
     

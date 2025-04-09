@@ -2,7 +2,7 @@ using System.Dynamic;
 
 namespace PaintShop;
 
-// 2 - Crie uma classe Room
+//classe Room
 public class Room
 {
     public Wall[] walls{get;}
